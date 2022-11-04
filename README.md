@@ -18,7 +18,7 @@ Evento exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnologia
 <br>
 
 <p align="center">
-  <img alt="rocketpay" src="https://explorer-lab-01-zeta-nine.vercel.app/" width="100%">
+  <img alt="rocketpay" src=".github/project.png" href="https://explorer-lab-01-zeta-nine.vercel.app/" width="100%">
 </p>
 
 ## 🚀 Tecnologias
